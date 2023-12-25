@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fabricejor
-- 👀 I’m interested by Web Develloppement and i want to try mobile dev
+- 👀 I’m interested by Web Develloppement and mobile dev
 - 🌱 I’m currently learning computer science
 - 💞️ I'm looking to develop professional skills and gain experience
 - 📫 How to reach me 📧Fabricejordan2001@gmail.com / 📧Fabricejordanramos@gmail.com
