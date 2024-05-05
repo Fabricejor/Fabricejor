@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![banner resemblance 60% blur background](https://github.com/Fabricejor/Fabricejor/assets/124691568/da513f3a-86d4-4af9-8c5f-103f64fbeb1a)
 
 - 👋 Hi, I’m @Fabricejor
 - 👀 I’m interested by Web Develloppement and mobile dev
