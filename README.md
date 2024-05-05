@@ -1,6 +1,6 @@
-![banner resemblance 60% blur background](https://github.com/Fabricejor/Fabricejor/assets/124691568/da513f3a-86d4-4af9-8c5f-103f64fbeb1a)
 
-- 👋 Hi, I’m @Fabricejor
+- 👋 Hi, I’m @Fabricejor![orange banner jacket glow](https://github.com/Fabricejor/Fabricejor/assets/124691568/e550c17c-3d3f-4030-8640-b120769f4de8)
+
 - 👀 I’m interested by Web Develloppement and mobile dev , IA , and new techonologies
 - 🌱 I’m currently learning computer science
 - 💞️ I'm looking to develop professional skills and gain experience
