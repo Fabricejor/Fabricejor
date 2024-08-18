@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @Fabricejor![orange banner jacket glow](https://github.com/Fabricejor/Fabricejor/assets/124691568/e550c17c-3d3f-4030-8640-b120769f4de8)
+- 👋 Hi, I’m @Fabricejor!
 
 - 👀 I’m interested by Web Develloppement and mobile dev , IA , and new techonologies
 - 🌱 I’m currently learning computer science
