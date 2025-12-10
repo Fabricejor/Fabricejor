@@ -15,8 +15,8 @@
 </div>
 
 ![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu)
-![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu&count={10})
-![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu&width={500})
+![spotify2](https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu&count={10})
+![spotify]3(https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu&width={1000})
 ![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu&unique={true|1|on|yes})
 
 ###
