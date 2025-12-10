@@ -14,10 +14,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabricejor&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu)
-![spotify2](https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu&count={10})
-![spotify3](https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu&width={1000})
-![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu&unique={true|1|on|yes})
+<div align="center">
+  <a href="https://open.spotify.com/user/31wvl3car4ehrdcng4cku6mvjwuu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 ###
