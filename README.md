@@ -7,11 +7,11 @@
 - 📫 How to reach me 📧Fabricejordan2001@gmail.com / 📧Fabricejordanramos@gmail.com
   
 # 📊 GitHub Stats:
-<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=fabricejor&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=fabricejor&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricejor&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabricejor&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
