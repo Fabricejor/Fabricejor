@@ -14,6 +14,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabricejor&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu&width={width})
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wvl3car4ehrdcng4cku6mvjwuu&unique={true|1|on|yes})
 
 ###
